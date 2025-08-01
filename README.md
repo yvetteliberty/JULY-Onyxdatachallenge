@@ -99,3 +99,22 @@ c. Lower impact from Price, Delivery Speed, and Packaging.
 ![](https://github.com/yvetteliberty/JULY-Onyxdatachallenge/blob/main/custsatpict1.png)
 ![](https://github.com/yvetteliberty/JULY-Onyxdatachallenge/blob/main/custsapict2.png)
 
+💡 Recommendations:
+a. Revisit pricing strategies and improve the user experience to reduce dissatisfaction.
+
+b. Leverage loyal segments (e.g., age 55–70, Group A) for referrals and testimonials.
+
+c. Develop engagement strategies for younger age groups and female customers to boost loyalty.
+
+d. Enhance support availability, a consistent factor in dissatisfaction.
+
+e. Dive deeper into why low-loyalty users are more satisfied. Is post-sale engagement missing?
+
+f. Invest in refining ease of use and support channels.
+
+g. Replicate satisfaction strategies from high-performing locations.
+
+
+## Connect with me on my socials:
+[Linkedln](www.linkedin.com/in/yvettemefendja)
+  
