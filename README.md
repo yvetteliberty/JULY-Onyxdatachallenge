@@ -96,5 +96,5 @@ b. Customer Service & Support Availability (45%)
 c. Lower impact from Price, Delivery Speed, and Packaging.
 
 # Visualizations
-![](
+![](https://github.com/yvetteliberty/JULY-Onyxdatachallenge/blob/main/custsatpict1.png)
 
